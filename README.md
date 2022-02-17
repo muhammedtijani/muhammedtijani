@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muhammedtijani
-- 👀 I’m interested in Fullstack web development
+- 👀 I’m interested in Front End web development
 - 🌱 I'm a Front-End web developer
 - 💞️ I’m looking to collaborate on any Front End web development job
 - 📫 How to reach me tundecool23@gmail.com
